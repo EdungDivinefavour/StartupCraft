@@ -1,0 +1,6 @@
+module Pods_StartupCraft {
+  umbrella header "Pods-StartupCraft-umbrella.h"
+
+  export *
+  module * { export * }
+}
